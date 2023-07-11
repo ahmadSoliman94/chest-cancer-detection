@@ -1,0 +1,614 @@
+image_path,label
+./Data/train/Large cell carcinoma/000062 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000089.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000098 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000019 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000072 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000097 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000066 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000019 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000055 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000034 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000051.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000016 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000017.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000033 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000010.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000059 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000039 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/l1.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000002.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000095 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000060.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000056 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000098 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000018 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000062 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000062.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000078 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000058 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000063.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000003 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000045.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000159.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000143.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000093 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000066.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000172.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000003 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000076 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000043 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000031.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000033 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000016 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000106.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000026 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000068 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000106 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000094 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/l4.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000078 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000055 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000023 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000068.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/l2.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000094 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000031 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000027.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000068 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000081.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000084 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000137.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000059 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000024 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000056 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000097.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000041 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000154.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000032.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000020 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000040 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000063 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000041 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000027 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000058 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000026.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000065 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000057 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000169.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000009 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000094 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000042 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000020 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000076 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000047 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000093 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000104 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000057.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000062 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000021.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/di1.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000077.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000041.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000071 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000073 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000104.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000095 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000039 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000105 (2).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000084.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000095.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000009 (4).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000095 (3).png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000015.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000149.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000173.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/l3.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000105.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000150.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000069.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000133.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/l5.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000046.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000055.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/l6.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000080.png,Large cell carcinoma
+./Data/train/Large cell carcinoma/000057 (3).png,Large cell carcinoma
+./Data/train/Adenocarcinoma/000055 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000025 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000089 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000015 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad5.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000102.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000075 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000023 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000087 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000018 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000093 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000097 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000021 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000027 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000095 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad15.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000119 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000022 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000084 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000065 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000022 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000086 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000104 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000105 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000029 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000024.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000020 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000121.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000119 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000077 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000029 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000019 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000121 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000098 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000050 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000016 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000013 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000036 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000084 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000015 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000063 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000035 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000034 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000041 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000058 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000066 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000050 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000023 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000013 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000044 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000087 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000065 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000067 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000091.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000033 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad14.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000017 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000093 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000029 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000021 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad6.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000020 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000035 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000049 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000044 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad21.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000051 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad1.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad4.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad13.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000023 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000042 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000051 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000102 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000118 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000008 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000054 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad18.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000068 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000066 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000085 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000085 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000049 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000106 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000040 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000026 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000107 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000048 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000041 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000054 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000086 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000050 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000079 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000105 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000102 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000041 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000021 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000054 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000021 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000083 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000065 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000091 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000106 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad17.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000080 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000022.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000067.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000101 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000035 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000085 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000084 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000078 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad19.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad16.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000046 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000068 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000068 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000026 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000005 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000017 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000074 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad20.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000040 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000023 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000032 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad12.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000093 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000104 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000024 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000041 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000063 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000097 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000050 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000009 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000021 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000098 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000005 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000054.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000009 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000080 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000102 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000020 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000119 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000106 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000071 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000072 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000052 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000061.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad9.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000058 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000090 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000057.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000022 (8).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000000 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000121 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000099 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000048.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000059 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000024 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000063 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad11.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000096 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad3.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000035 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000036 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000015 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000022 (9).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000077 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000083 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000084.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000027 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000095.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000081 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad8.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000030 (4).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000092 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad22.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad2.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000057 (2).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000100 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000069 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000056 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000105.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad10.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000119 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000040 (5).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000122.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000118 (6).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000091 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/ad7.png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000024 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000014 (7).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000031 (3).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000097 (10).png,Adenocarcinoma
+./Data/train/Adenocarcinoma/000103 (9).png,Adenocarcinoma
+./Data/train/Normal/7 - Copy (3).png,Normal
+./Data/train/Normal/8 (2).png,Normal
+./Data/train/Normal/18 - Copy.png,Normal
+./Data/train/Normal/7 - Copy.png,Normal
+./Data/train/Normal/19 - Copy - Copy.png,Normal
+./Data/train/Normal/12.png,Normal
+./Data/train/Normal/19 (2).png,Normal
+./Data/train/Normal/18 (2) - Copy.png,Normal
+./Data/train/Normal/4 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/20 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/18 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/12 (2) - Copy.png,Normal
+./Data/train/Normal/16 (2) - Copy.png,Normal
+./Data/train/Normal/7 (2) - Copy.png,Normal
+./Data/train/Normal/n9.jpg,Normal
+./Data/train/Normal/21 - Copy - Copy.png,Normal
+./Data/train/Normal/10 - Copy - Copy.png,Normal
+./Data/train/Normal/n9 (2) - Copy.jpg,Normal
+./Data/train/Normal/20 - Copy.png,Normal
+./Data/train/Normal/8 (2) - Copy.png,Normal
+./Data/train/Normal/6 - Copy (2).png,Normal
+./Data/train/Normal/3 - Copy (2).png,Normal
+./Data/train/Normal/n6 - Copy.jpg,Normal
+./Data/train/Normal/2 - Copy - Copy.png,Normal
+./Data/train/Normal/10 - Copy (3).png,Normal
+./Data/train/Normal/17 - Copy (2).png,Normal
+./Data/train/Normal/12 - Copy.png,Normal
+./Data/train/Normal/7 - Copy - Copy.png,Normal
+./Data/train/Normal/8.png,Normal
+./Data/train/Normal/20 - Copy (2).png,Normal
+./Data/train/Normal/18 - Copy - Copy.png,Normal
+./Data/train/Normal/16 - Copy.png,Normal
+./Data/train/Normal/10.png,Normal
+./Data/train/Normal/8 - Copy (3).png,Normal
+./Data/train/Normal/n7 (2) - Copy.png,Normal
+./Data/train/Normal/5 (2) - Copy.png,Normal
+./Data/train/Normal/11 - Copy (2).png,Normal
+./Data/train/Normal/4 (2).png,Normal
+./Data/train/Normal/20 (2) - Copy.png,Normal
+./Data/train/Normal/13.png,Normal
+./Data/train/Normal/8 - Copy - Copy.png,Normal
+./Data/train/Normal/19 - Copy (2).png,Normal
+./Data/train/Normal/12 - Copy (3).png,Normal
+./Data/train/Normal/6 - Copy.png,Normal
+./Data/train/Normal/13 - Copy - Copy.png,Normal
+./Data/train/Normal/3.png,Normal
+./Data/train/Normal/4.png,Normal
+./Data/train/Normal/13 - Copy (2).png,Normal
+./Data/train/Normal/10 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/5 (2).png,Normal
+./Data/train/Normal/6 - Copy - Copy.png,Normal
+./Data/train/Normal/17 - Copy (3).png,Normal
+./Data/train/Normal/10 - Copy (2).png,Normal
+./Data/train/Normal/7.png,Normal
+./Data/train/Normal/6 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/3 - Copy.png,Normal
+./Data/train/Normal/19 - Copy.png,Normal
+./Data/train/Normal/16 - Copy - Copy.png,Normal
+./Data/train/Normal/5 - Copy (2).png,Normal
+./Data/train/Normal/3 (2) - Copy.png,Normal
+./Data/train/Normal/11 (2) - Copy.png,Normal
+./Data/train/Normal/n6 (2).jpg,Normal
+./Data/train/Normal/n7.png,Normal
+./Data/train/Normal/12 - Copy (2).png,Normal
+./Data/train/Normal/4 - Copy (3).png,Normal
+./Data/train/Normal/7 - Copy (2).png,Normal
+./Data/train/Normal/12 (2).png,Normal
+./Data/train/Normal/6.png,Normal
+./Data/train/Normal/17 (2) - Copy.png,Normal
+./Data/train/Normal/7 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/n6 (2) - Copy.jpg,Normal
+./Data/train/Normal/5 - Copy.png,Normal
+./Data/train/Normal/11 - Copy (3).png,Normal
+./Data/train/Normal/18 (2).png,Normal
+./Data/train/Normal/5 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/11 (2).png,Normal
+./Data/train/Normal/19 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/10 (2).png,Normal
+./Data/train/Normal/2 - Copy (3).png,Normal
+./Data/train/Normal/5.png,Normal
+./Data/train/Normal/n7 (2).png,Normal
+./Data/train/Normal/13 (2) - Copy.png,Normal
+./Data/train/Normal/n8 (2) - Copy.jpg,Normal
+./Data/train/Normal/21 - Copy.png,Normal
+./Data/train/Normal/16 - Copy (2).png,Normal
+./Data/train/Normal/12 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/16 - Copy (3).png,Normal
+./Data/train/Normal/n8 (2).jpg,Normal
+./Data/train/Normal/12 - Copy - Copy.png,Normal
+./Data/train/Normal/4 (2) - Copy.png,Normal
+./Data/train/Normal/5 - Copy (3).png,Normal
+./Data/train/Normal/8 - Copy (2).png,Normal
+./Data/train/Normal/16 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/n9 - Copy.jpg,Normal
+./Data/train/Normal/20 (2).png,Normal
+./Data/train/Normal/11 - Copy.png,Normal
+./Data/train/Normal/11 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/n8.jpg,Normal
+./Data/train/Normal/2 - Copy.png,Normal
+./Data/train/Normal/18.png,Normal
+./Data/train/Normal/2 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/16.png,Normal
+./Data/train/Normal/16 (2).png,Normal
+./Data/train/Normal/3 (2).png,Normal
+./Data/train/Normal/19 - Copy (3).png,Normal
+./Data/train/Normal/7 (2).png,Normal
+./Data/train/Normal/3 - Copy - Copy.png,Normal
+./Data/train/Normal/8 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/20 - Copy (3).png,Normal
+./Data/train/Normal/21 - Copy (2).png,Normal
+./Data/train/Normal/n8 - Copy.jpg,Normal
+./Data/train/Normal/2 (2).png,Normal
+./Data/train/Normal/11.png,Normal
+./Data/train/Normal/2 - Copy (2).png,Normal
+./Data/train/Normal/18 - Copy (3).png,Normal
+./Data/train/Normal/18 - Copy (2).png,Normal
+./Data/train/Normal/n6.jpg,Normal
+./Data/train/Normal/4 - Copy - Copy.png,Normal
+./Data/train/Normal/6 (2) - Copy.png,Normal
+./Data/train/Normal/20 - Copy - Copy.png,Normal
+./Data/train/Normal/21 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/17 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/13 (2).png,Normal
+./Data/train/Normal/4 - Copy.png,Normal
+./Data/train/Normal/6 (2).png,Normal
+./Data/train/Normal/13 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/5 - Copy - Copy.png,Normal
+./Data/train/Normal/4 - Copy (2).png,Normal
+./Data/train/Normal/10 - Copy.png,Normal
+./Data/train/Normal/13 - Copy (3).png,Normal
+./Data/train/Normal/8 - Copy.png,Normal
+./Data/train/Normal/11 - Copy - Copy.png,Normal
+./Data/train/Normal/6 - Copy (3).png,Normal
+./Data/train/Normal/17 - Copy - Copy.png,Normal
+./Data/train/Normal/3 - Copy (3).png,Normal
+./Data/train/Normal/17 - Copy.png,Normal
+./Data/train/Normal/n9 (2).jpg,Normal
+./Data/train/Normal/n7 - Copy.png,Normal
+./Data/train/Normal/17.png,Normal
+./Data/train/Normal/19.png,Normal
+./Data/train/Normal/3 - Copy (2) - Copy.png,Normal
+./Data/train/Normal/17 (2).png,Normal
+./Data/train/Normal/13 - Copy.png,Normal
+./Data/train/Normal/20.png,Normal
+./Data/train/Normal/2.png,Normal
+./Data/train/Normal/19 (2) - Copy.png,Normal
+./Data/train/Normal/10 (2) - Copy.png,Normal
+./Data/train/Normal/2 (2) - Copy.png,Normal
+./Data/train/Squamous cell carcinoma/000055 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000085.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000096 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000057 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000084 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000075.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000066 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000055 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000053 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000060 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000084 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000016 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000058.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000089 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000100 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000029 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000121.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000057 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000030 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000120 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000079 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000048 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000099 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000074 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000070.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000064 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000058 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000077 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000084 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000053.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/sq3.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000043.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000054 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000067 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000063.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000093.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000046 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000066.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000052 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000049 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000007.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000096.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000079 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/sq6.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000078 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000028 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/sq2.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000035.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000069 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000121 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000051 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000046 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000120 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000090 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000038 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000082 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000099 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000009 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000015 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000067 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000083 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000056 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/sq1.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000078.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000008 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000091 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000024 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000004 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000028 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000094 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000083 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000068 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000081.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000081 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000038 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/sq5.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000035 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000105 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000078 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000036 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000106 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000006 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000063 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000046 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000004 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000106 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000032.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000074 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000103.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000120 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000041 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000027 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000122 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000002 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000058 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000038 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000067 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000057 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000088.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000006.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000015 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000054.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000007 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000017 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000004 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000082 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000062 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000043 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000106 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000106 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000071 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000065 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000033.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000106 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000058 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000104 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000065 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000048.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000024 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000063 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000050 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000002 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000062 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000104.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000079.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/sq4.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000083 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000070 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000067 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000044 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000077 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000030 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000010 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000074 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000013 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000048 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000057 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000046 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000077 (4).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000056 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000028 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000094.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000122.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000073 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000037 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000091 (7).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000003.png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000081 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000018 (6).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000101 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000030 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000050 (2).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000105 (5).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000057 (3).png,Squamous cell carcinoma
+./Data/train/Squamous cell carcinoma/000083 (7).png,Squamous cell carcinoma

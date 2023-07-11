@@ -1,0 +1,73 @@
+image_path,label
+./Data/valid/Large cell carcinoma/000114.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000108.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000111.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000120.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000130.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000118 (2).png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000110 (2).png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000113.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000128.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000108 (2).png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000126.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000116.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000115 (3).png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000110.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000113 (2).png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000115.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000109.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000112.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000111 (2).png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000122.png,Large cell carcinoma
+./Data/valid/Large cell carcinoma/000131.png,Large cell carcinoma
+./Data/valid/Adenocarcinoma/000115 (2).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000112 (2).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000108 (8).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000114.png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000116 (5).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000115 (5).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000116 (3).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000114 (10).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000113.png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000116 (9).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000109 (8).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000115 (9).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000112 (9).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000113 (3).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000108 (7).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000116 (8).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000115.png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000109 (3).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000111 (2).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000110 (7).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000109 (4).png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000117.png,Adenocarcinoma
+./Data/valid/Adenocarcinoma/000117 (6).png,Adenocarcinoma
+./Data/valid/Normal/7 - Copy (3).png,Normal
+./Data/valid/Normal/8 - Copy (3).png,Normal
+./Data/valid/Normal/4 (2).png,Normal
+./Data/valid/Normal/6 - Copy.png,Normal
+./Data/valid/Normal/7.png,Normal
+./Data/valid/Normal/6 - Copy (2) - Copy.png,Normal
+./Data/valid/Normal/7 - Copy (2).png,Normal
+./Data/valid/Normal/5.png,Normal
+./Data/valid/Normal/004162_01_01_150.png,Normal
+./Data/valid/Normal/003828_02_01_174.png,Normal
+./Data/valid/Normal/004007_01_01_519.png,Normal
+./Data/valid/Normal/4 - Copy (2).png,Normal
+./Data/valid/Normal/6 - Copy (3).png,Normal
+./Data/valid/Squamous cell carcinoma/000115 (2).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000116 (2).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000118 (5).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000117 (4).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000119 (5).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000111.png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000119.png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000115 (5).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000118 (4).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000108 (3).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000110 (6).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000114 (4).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000112.png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000114 (6).png,Squamous cell carcinoma
+./Data/valid/Squamous cell carcinoma/000117 (6).png,Squamous cell carcinoma
